@@ -1,2 +1,0 @@
-# shell-practice
-# shell-practice
